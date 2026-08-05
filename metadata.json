@@ -1,0 +1,6 @@
+{
+  "name": "NdineAnalyticsAgent",
+  "description": "Multi-asset quantitative AI analytics agent delivering trading signals, market structure insights, and Telegram bot connectivity for Stocks, Commodities, Metals, Crypto, and Forex.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
